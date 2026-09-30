@@ -54,26 +54,7 @@ UIDAI_PROXY = DEFAULT_PROXY
 # BrightData proxies removed - blocked on .gov.in
 # OwlProxy SOCKS5 Indian Residential Pool (rotating)
 PROXY_POOL = [
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_09984885_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_71037315_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_89862918_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_57951696_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_16486961_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_38354839_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_98755190_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_88999949_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_69924687_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_49915585_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_89421933_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_82512271_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_76132434_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_30829003_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_20255525_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_76190484_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_08452203_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_20127759_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_12233140_time_5:5546964@change5.owlproxy.com:7778",
-    "socks5h://hUKy5wBHnU20_custom_zone_IN_st__city_sid_06945751_time_5:5546964@change5.owlproxy.com:7778",
+    "p1.arealproxy.com:9000:0463032f84441aa29e-type-residential-country-in:05a4af06-0e7d-47bf-b594-b9f4b57b579a"
 ]
 
 use_proxy = bool(PROXY_POOL)
