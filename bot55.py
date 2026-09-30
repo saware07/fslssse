@@ -363,7 +363,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Telegram Bot Setup
-TELEGRAM_BOT_TOKEN = "8795691302:AAFykIvRzKGAQ_rUKCtB3fiWVcrjQjAh_9s"
+TELEGRAM_BOT_TOKEN = "8849734958:AAH_DrCDkjD6QJSVeSYGH1UGJYatLO0qwFQ"
 
 
 
